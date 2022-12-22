@@ -1,0 +1,12 @@
+MySQL:
+  host: "localhost"
+  user: "root"
+  password: ""
+  database: "bungeeredirect"
+  port: 3306
+  max-pool: 10
+  useSSL: false
+
+default-server: "lobby"
+
+send-to-default: false
